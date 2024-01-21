@@ -1,0 +1,51 @@
+{
+    "studentId": "00001",
+    "firstName": "Cody",
+    "lastName": "Skelton",
+    "enrollments": [
+        {
+            "term": "Winter 2023",
+            "GPA": "undetermined",
+            "startDate": "2024-01-08",
+            "endDate": "2024-03-10",
+            "courses": [
+                {
+                    "courseId": "WEB 335",
+                    "description": "Introduction to NoSQL",
+                    "instructor": "Professor Krasso",
+                    "score": 90,
+                    "letterGrade": "A"
+                },
+                {
+                    "courseId": "WEB 420",
+                    "description": "RESTful APIs",
+                    "instructor":"Professor Krasso",
+                    "score": 85,
+                    "letterGrade": "B"
+                }
+            ]
+        },
+        {
+            "term": "Summer 2023",
+            "GPA": "4.0",
+            "startDate": "2023-08-07",
+            "endDate": "2023-10-08",
+            "courses": [
+                {
+                    "courseId": "WEB 231",
+                    "description": "Enterprise JavaScript I",
+                    "instructor": "Professor Kumar",
+                    "score": 94,
+                    "letterGrade": "A"
+                },
+                {
+                    "courseId": "WEB 321",
+                    "description": "Business Environment for Web Professionals",
+                    "instructor": "Professor Cross",
+                    "score": 89,
+                    "letterGrade": "B+"
+                }
+            ]
+        }
+    ]
+}

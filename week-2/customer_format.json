@@ -1,0 +1,43 @@
+{
+    "_id": "00001",
+    "firstName": "Jason",
+    "lastName": "Toledo",
+    "dateOfBirth": "2000-01-01",
+    "username": "HolyToledo00",
+    "invoices": [
+        {
+            "_id": "10001",
+            "createDate": "2019-04-23",
+            "shipDate": "2019-04-25",
+            "subtotal": 24.99,
+            "lineItems": [
+                {
+                    "_id": "11001",
+                    "productName": "sourball",
+                    "price": 24.99,
+                    "qty": 1
+                }
+            ]
+        },
+        {
+            "_id": "10002",
+            "createDate": "2019-05-15",
+            "shipDate": "2019-05-21",
+            "subtotal": 32.99,
+            "lineItems": [
+                {
+                    "_id": "11002",
+                    "productName": "sourball",
+                    "price": 24.99,
+                    "qty": 1
+                },
+                {
+                    "_id": "11003",
+                    "productName": "gobstopper",
+                    "price": 4,
+                    "qty": 2
+                }
+            ]
+        }
+    ]
+}
