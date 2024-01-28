@@ -1,0 +1,24 @@
+{
+    "firstName": "Isiah",
+    "lastName": "Marcos",
+    "roles": [
+        {
+            "role1": "admin",
+            "permissions": [
+                {
+                    "resource1": "database",
+                    "resource2": "active directory"
+                }
+            ]
+        },
+        {
+            "role2": "user",
+            "permissions": [
+                {
+                    "resource1": "shared files",
+                    "resource2": "intranet"
+                }
+            ]
+        }
+    ]
+}

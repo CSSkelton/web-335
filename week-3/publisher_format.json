@@ -1,0 +1,51 @@
+{
+    "name": "Penguin Random House",
+    "code": "46-XXXXX85",
+    "address": [
+        {
+            "address1": "1021 North State Road 47"
+        },
+        {
+            "address2": "800 East Ninety-sixth Street"
+        }
+    ],
+    "books": [
+        {
+            "name": "The Design of Web APIs",
+            "isbn": "978-1-61729-510-2",
+            "price": 44.99,
+            "authors": [
+                {
+                    "firstName": "Arnaud",
+                    "lastName": "Lauret",
+                    "email": "somerandomaddress@email.net",
+                    "phone": [
+                        {
+                            "officeNumber": "XXX-XXX-XXXX"
+                        },
+                        {
+                            "cellNumber": "XXX-XXX-XXXX"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Computer Service and Repair: Fifth Edition",
+            "isbn": "978-1-64564-000-4",
+            "price": 115.00,
+            "authors": [
+                {
+                    "firstName": "Richard",
+                    "lastName": "Roberts",
+                    "email": "anotherrandomaddress@email.net",
+                    "phone": [
+                        {
+                            "officeNumber": "XXX-XXX-XXXX"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
