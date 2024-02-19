@@ -3,6 +3,8 @@
         "Kumar",
         "leathercraft",
         "lineitems",
-        "Mongosh"
+        "Mongosh",
+        "pymongo",
+        "usersp"
     ]
 }
